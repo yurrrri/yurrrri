@@ -2,6 +2,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yurrrri)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurrrri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tech Stack 🛠
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
