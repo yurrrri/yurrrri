@@ -2,7 +2,7 @@
 
 🙋🏻‍♀️ I'm Doing
 
-안드로이드 개발 및 교육
+Android Developer, Android Educator
 
 🛠 I'm Learning
 
