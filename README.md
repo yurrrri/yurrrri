@@ -4,6 +4,10 @@
 
 Android/iOS Developer, Android Educator
 
+👩🏻‍💻 Who Am I?
+
+https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
+
 🛠 I'm Learning
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
