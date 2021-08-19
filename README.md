@@ -1,18 +1,18 @@
 ### Hi, there 👋
 
-🙋🏻‍♀️ I am
+🙋🏻‍♀️ **I am**
 
 Android Developer, Android Educator
 
-👩🏻‍💻 More Info about me
+🔍 **More Info about me**
 
 https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
 
-💻 Todays, I'm learning
+💻 **Todays, I'm learning**
 
 iOS Development, Swift
 
-🛠 Skills
+🛠 **Tech Stack**
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
