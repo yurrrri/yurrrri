@@ -2,7 +2,7 @@
 
 🙋🏻‍♀️ I'm Doing
 
-Android/iOS Developer, Android Educator
+Android Developer, Android Educator
 
 👩🏻‍💻 Who Am I?
 
