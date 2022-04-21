@@ -7,6 +7,7 @@ Android/iOS Developer, Educator
 🔍 **More Info about me**
 
 https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
+https://velog.io/@zoe_dev
 
 🔥 **Todays, I'm learning**
 
