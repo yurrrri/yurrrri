@@ -2,7 +2,7 @@
 
 🙋🏻‍♀️ **I am**
 
-Android/iOS Developer, Educator
+Android/iOS Developer
 
 🔍 **More Info about me**
 
@@ -10,7 +10,7 @@ https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdf
 
 🔥 **Todays, I'm learning**
 
-iOS Development, Swift, Planning
+iOS Development, Swift
 
 🛠 **Tech Stack**
 
