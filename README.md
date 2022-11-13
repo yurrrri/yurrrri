@@ -5,6 +5,7 @@
 Android/iOS Developer
 
 💬 **Blog**
+
 https://devyul.tistory.com/
 
 🔍 **More Info about me**
