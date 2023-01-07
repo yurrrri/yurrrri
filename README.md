@@ -2,7 +2,7 @@
 
 🙋🏻‍♀️ **I am**
 
-Android/iOS Developer
+iOS Developer
 
 💬 **Blog**
 
