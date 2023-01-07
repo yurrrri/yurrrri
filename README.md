@@ -1,14 +1,11 @@
 ### Hi, there 👋
 
-🙋🏻‍♀️ **I am**
-
-iOS Developer
 
 💬 **Blog**
 
 https://devyul.tistory.com/
 
-🔍 **More Info about me**
+🔍 **Notion Resume**
 
 https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
 
