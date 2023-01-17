@@ -1,11 +1,11 @@
 ### Hi, there 👋
 
 
-💬 **Blog**
+💬 **Tech Blog**
 
 https://devyul.tistory.com/
 
-🔍 **Notion Resume**
+🔍 **Introduce Notion Page**
 
 https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
 
