@@ -1,11 +1,11 @@
 ### Hi, there 👋
 
 
-💬 **공부 블로그**
+💬 **블로그**
 
 https://devyul.tistory.com/
 
-🔍 **노션 소개 페이지**
+🔍 **포트폴리오**
 
 https://windy-laundry-812.notion.site/Android-Developer-e3dbfce9c06843a6b947dfdfa057a576
 
