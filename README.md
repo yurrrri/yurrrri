@@ -5,9 +5,6 @@
 
 https://devyul.tistory.com/
 
-🔍 **포트폴리오**
-
-
 
 🛠 **Tech Stack**
 
