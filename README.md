@@ -1,9 +1,12 @@
-### Hi, there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Hi!%20I'm%20Yuri&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-
-💬 **블로그**
+💬 **Tech Blog*
 
 https://devyul.tistory.com/
+
+📞 **Contact**
+
+email: leeyuri.andapp@gmail.com
 
 
 🛠 **Tech Stack**
