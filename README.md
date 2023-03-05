@@ -11,9 +11,14 @@ https://devyul.tistory.com/
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-📱 **Project List**
+### 📱 Project List
+
+👩🏻‍💻 **개인 프로젝트**
 
 [원티드 프리온보딩 - Swift 동시성 프로그래밍](https://github.com/yurrrri/wanted-preonboarding-ios)
+
+
+👨‍👩‍👧‍👧 **팀 프로젝트**
 
 [회고 작성 플랫폼, 그로우립](https://github.com/paicooha/Growlibb-iOS)
 
