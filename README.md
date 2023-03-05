@@ -14,6 +14,7 @@ https://devyul.tistory.com/
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 📱 **Project List**
+
 [원티드 프리온보딩 - Swift 동시성 프로그래밍](https://github.com/yurrrri/wanted-preonboarding-ios)
 
 [회고 작성 플랫폼, 그로우립](https://github.com/paicooha/Growlibb-iOS)
