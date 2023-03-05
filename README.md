@@ -1,5 +1,3 @@
-👩🏻‍💻 **안녕하세요, 성장을 즐기는 iOS 개발자 이유리입니다.**
-
 💬 **Tech Blog**
 
 https://devyul.tistory.com/
