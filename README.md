@@ -13,11 +13,6 @@ https://devyul.tistory.com/
 
 ### 📱 Project List
 
-👩🏻‍💻 **개인 프로젝트**
-
-[원티드 프리온보딩 - Swift 동시성 프로그래밍](https://github.com/yurrrri/wanted-preonboarding-ios)
-
-
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
 [회고 작성 플랫폼, 그로우립](https://github.com/paicooha/Growlibb-iOS)
@@ -25,3 +20,7 @@ https://devyul.tistory.com/
 [직장인 러닝 모임 플랫폼, 러너비](https://github.com/runner-be/RunnerBe-iOS)
 
 [꿀팁 공유 플랫폼, 팁끌](https://github.com/yurrrri/Tipkle_iOS)
+
+👩🏻‍💻 **개인 프로젝트**
+
+[원티드 프리온보딩 - Swift 동시성 프로그래밍](https://github.com/yurrrri/wanted-preonboarding-ios)
