@@ -21,6 +21,7 @@ https://devyul.tistory.com/
 
 [꿀팁 공유 플랫폼, 팁끌](https://github.com/yurrrri/Tipkle_iOS)
 
-👩🏻‍💻 **개인 프로젝트**
+📚 **Study**
 
 [원티드 프리온보딩 - Swift 동시성 프로그래밍](https://github.com/yurrrri/wanted-preonboarding-ios)
+[클린코드 - Swift](https://github.com/yurrrri/Swift_clean_code)
