@@ -11,7 +11,7 @@ https://devyul.tistory.com/
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-### 📱 Project List
+📱 **Project List**
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
