@@ -1,7 +1,8 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yuri&nbsp;Lee's&nbsp;Github&fontAlign=50&fontAlignY=40&color=gradient)
+
 💬 **Tech Blog**
 
 https://devyul.tistory.com/
-
 
 🛠 **Tech Stack**
 
