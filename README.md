@@ -1,15 +1,13 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yuri&nbsp;Lee's&nbsp;Github&fontAlign=50&fontAlignY=40&color=gradient)
 
-💬 **Tech Blog**
-
-https://devyul.tistory.com/
-
-🛠 **Tech Stack**
-
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+
+💬 **Tech Blog**
+
+https://devyul.tistory.com/
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
