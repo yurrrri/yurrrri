@@ -11,9 +11,9 @@
 </p>
 <br>
 
-💬 **Tech Blog**
+👔 **Notion Porfolio**
 
-https://devyul.tistory.com/
+https://windy-laundry-812.notion.site/iOS-developer-7bfffe5ad642467083e510c64395fb48
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
