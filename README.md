@@ -11,9 +11,9 @@
 </p>
 <br>
 
-👔 **Notion Porfolio**
+👔 **Porfolio**
 
-https://windy-laundry-812.notion.site/iOS-developer-7bfffe5ad642467083e510c64395fb48
+https://ios-developer-leeyuri.super.site/
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
