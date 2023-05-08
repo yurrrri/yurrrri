@@ -11,9 +11,6 @@
 </p>
 <br>
 
-👔 **Porfolio**
-
-https://ios-developer-leeyuri.super.site/
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
 
