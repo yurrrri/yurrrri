@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 </p>
+<a href="https://solved.ac/lyr8403"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyr8403" align/></a>
+<br/>
+<br/>
 <p>
   <a href="https://devyul.tistory.com/">
 <img
@@ -15,9 +18,6 @@ src="http://img.shields.io/badge/-Tech%20Blog-orange?style=flat&logo=tistory&lin
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <a href="mailto:leeyuri.andapp@gmail.com">
   <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyuri.andapp@gmail.com"/>
-</p>
-<p>
-  <a href="https://solved.ac/lyr8403"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyr8403" /></a>
 </p>
 
 👨‍👩‍👧‍👧 **팀 프로젝트**
