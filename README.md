@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 </p>
-<a href="https://solved.ac/lyr8403"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyr8403" align/></a>
-<br/>
-<br/>
 <p>
   <a href="https://devyul.tistory.com/">
 <img
