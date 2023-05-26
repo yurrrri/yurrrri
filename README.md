@@ -6,6 +6,7 @@ src="http://img.shields.io/badge/-Tech%20Blog-orange?style=flat&logo=tistory&lin
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <a href="mailto:leeyuri.andapp@gmail.com">
   <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyuri.andapp@gmail.com"/>
+  <a href="https://solved.ac/lyr8403"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lyr8403" align/></a>
 </p>
 
 ### 🏢 Work
