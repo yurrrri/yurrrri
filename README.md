@@ -21,13 +21,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 - **동덕여자대학교 정보통계학과/컴퓨터학과** (2021.08 졸업)<br/>
 - **서울산업진흥원 '라이징프로그래머2' Android 과정 수료** (2020.12 ~ 2021.04) <br/>
 - **앨런 Swift 마스터 스쿨** (2023.05 ~) <br/>
-      
-### ✍🏻 Study
-
-- [Swift 알고리즘](https://github.com/yurrrri/swift_algorim_practice) <br/>
-- [Swift 문법](https://devyul.tistory.com/category/%F0%9F%90%A6%20Swift) <br/>
-- [iOS 기초(UIKit)](https://devyul.tistory.com/category/%F0%9F%8D%8E%20iOS) <br/>
-- [iOS 아키텍처](https://github.com/protocorn93/iOS-Architecture) <br/>
      
 ### 🏆️ Awards
 
