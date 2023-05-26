@@ -1,13 +1,4 @@
-<p>
-<a href="https://github.com/twkim8548">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lee&nbsp;Yuri's&nbsp;Github&fontAlign=50&fontAlignY=40&color=gradient" /></a>
-    
-<p>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/UIKit-147EFB?style=flat-square&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
-</p>
+### 👋🏻 안녕하세요, 회고를 통해 성장하는 개발자 이유리입니다.
 <p>
   <a href="https://devyul.tistory.com/">
 <img
@@ -17,18 +8,35 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeyuri.andapp@gmail.com"/>
 </p>
 
-👨‍👩‍👧‍👧 **팀 프로젝트**
+### 🏢 Work
+- **소프트스퀘어드 `교육 매니저` `프로젝트 매니저`** (2021.05 ~ 2022.10)
+      
+### 📱 Projects
 
-[회고 작성 플랫폼, 그로우립](https://github.com/paicooha/Growlibb-iOS)
+- 🌱 **회고 작성 플랫폼, 그로우립** [앱스토어](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%9A%B0%EB%A6%BD/id1660732969) | [깃허브](https://github.com/paicooha/Growlibb-iOS) <br/>
+- 🐝 **직장인 러닝 모임 플랫폼, 러너비** [앱스토어](https://apps.apple.com/kr/app/%EB%9F%AC%EB%84%88%EB%B9%84/id1612604358) | [깃허브](https://github.com/runner-be/RunnerBe-iOS/tree/develop_zoe) <br/>
 
-[직장인 러닝 모임 플랫폼, 러너비](https://github.com/runner-be/RunnerBe-iOS)
+### 📚 Education
 
-[꿀팁 공유 플랫폼, 팁끌](https://github.com/yurrrri/Tipkle_iOS)
+- **동덕여자대학교 정보통계학과/컴퓨터학과** (2021.08 졸업)<br/>
+- **서울산업진흥원 '라이징프로그래머2' Android 과정 수료** (2020.12 ~ 2021.04) <br/>
+- **앨런 Swift 마스터 스쿨** (2023.05 ~) <br/>
+      
+### ✍🏻 Study
 
-📚 **Study**
+- [Swift 알고리즘](https://github.com/yurrrri/swift_algorim_practice) <br/>
+- [Swift 문법](https://devyul.tistory.com/category/%F0%9F%90%A6%20Swift) <br/>
+- [iOS 기초(UIKit)](https://devyul.tistory.com/category/%F0%9F%8D%8E%20iOS) <br/>
+- [iOS 아키텍처](https://github.com/protocorn93/iOS-Architecture) <br/>
+     
+### 🏆️ Awards
 
-[Swift 알고리즘](https://github.com/yurrrri/swift_algorim_practice)
+- **2021 뉴스빅데이터 해커톤 `우수상`** (2021.10) <br/>
+- **수익형 앱 런칭 동아리 CMC 7기 `최우수상`** (2021.04) <br/>
+      
+### 🏃🏻 Experience
+      
+- **수익형 앱 런칭 동아리 CMC 6-7기 `Android 개발자`** (2021.02 ~ 2021.08) <br/>
+- **수익형 앱 런칭 동아리 CMC 8기 `Android 파트장`** (2021.09 ~ 2021.12) <br/>
+- **Android 외주 개발 및 납품** (2021.08 ~ 2021.11) <br/>
 
-[Swift 문법 공부 & 리팩토링](https://devyul.tistory.com/category/%F0%9F%90%A6%20Swift)
-
-[iOS(UIKit 위주) & 프로젝트 개발일기](https://devyul.tistory.com/category/%F0%9F%8D%8E%20iOS)
