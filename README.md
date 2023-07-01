@@ -11,10 +11,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <p>   
 <img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/>
     </p>
-    
-
-### 🏢 Work
-- **소프트스퀘어드 `교육 매니저` `프로젝트 매니저`** (2021.05 ~ 2022.10)
       
 ### 📱 Projects
 
