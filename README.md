@@ -13,7 +13,6 @@
 - 🍯 **꿀팁 커뮤니티 플랫폼, 팁끌**
 [깃허브](https://github.com/yurrrri/Tipkle_iOS)
 
-### ☎️ Contact
+### ✨ Experience
 
-- 블로그: http://devyul.tistory.com
-- 메일: leeyuri.iosapp@gmail.com
+- **앨런 Swift 문법 마스터 스쿨 (2023.05 ~ 2023.07)**
