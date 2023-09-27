@@ -15,8 +15,6 @@
 [앱스토어](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A1%9C%EC%9A%B0%EB%A6%BD/id1660732969) | [깃허브](https://github.com/paicooha/Growlibb-iOS) <br/>
 - 🐝 **직장인 러닝 모임 플랫폼, 러너비**
 [앱스토어](https://apps.apple.com/kr/app/%EB%9F%AC%EB%84%88%EB%B9%84/id1612604358) | [깃허브](https://github.com/runner-be/RunnerBe-iOS) <br/>
-- 🍯 **꿀팁 커뮤니티 플랫폼, 팁끌**
-[깃허브](https://github.com/yurrrri/Tipkle_iOS)
 
 ### ✨ Experience
 
