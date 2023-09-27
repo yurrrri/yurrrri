@@ -23,6 +23,6 @@
 - **앱 런칭 동아리 CMC Android 리더 (2021.09 ~ 2021.12)**
 - **앱 런칭 동아리 CMC Android 개발자 (2021.02 ~ 2021.09)**
 
-### 🕶️ solved-ac
+### 🕶️ Solve-algorithm
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyr8403)](https://solved.ac/profile/lyr8403)
