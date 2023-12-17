@@ -2,7 +2,7 @@
 
 ### ⚙️ Tech Stack
 <p>   
-<img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-2379F4?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
     </p>
 
 ### 🏢 Work
