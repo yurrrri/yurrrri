@@ -11,8 +11,6 @@
       
 ### 📱 Projects
 
-- 🌱 **회고 작성 플랫폼, 그로우립**
-[깃허브](https://github.com/paicooha/Growlibb-iOS) <br/>
 - 🐝 **직장인 러닝 모임 플랫폼, 러너비**
 [앱스토어](https://apps.apple.com/kr/app/%EB%9F%AC%EB%84%88%EB%B9%84/id1612604358) | [깃허브](https://github.com/runner-be/RunnerBe-iOS) <br/>
 
