@@ -12,7 +12,7 @@
 ### 📱 Projects
 - 🏥 **놓친 보험금 청구 플랫폼, 라이프캐치** [앱스토어](https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%BA%90%EC%B9%98-%EB%86%93%EC%B9%9C%EB%B3%B4%ED%97%98%EA%B8%88-%EC%B0%A8%EC%82%AC%EA%B3%A0%EC%9C%84%EB%A1%9C%EA%B8%88-%EC%A0%95%ED%99%95%ED%95%9C-%EC%B2%AD%EA%B5%AC%EB%8C%80%ED%96%89/id1575683904) | [플레이스토어](https://play.google.com/store/apps/details?id=com.gribbon.android.rocketbosang&hl=ko) <br/>
 - 🐝 **직장인 러닝 모임 플랫폼, 러너비**
-[앱스토어](https://apps.apple.com/kr/app/%EB%9F%AC%EB%84%88%EB%B9%84/id1612604358) | [깃허브](https://github.com/runner-be/RunnerBe-iOS) <br/>
+[앱스토어](https://apps.apple.com/kr/app/%EB%9F%AC%EB%84%88%EB%B9%84/id1612604358) | [플레이스토어](https://play.google.com/store/apps/details?id=com.applemango.runnerbe&hl=ko) | [깃허브](https://github.com/runner-be/RunnerBe-iOS) <br/>
 
 ### ✨ Experience
 
