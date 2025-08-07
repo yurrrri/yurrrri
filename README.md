@@ -15,3 +15,8 @@
 - **앱 런칭 동아리 CMC 앱 개발 리더 (2021.09 ~ 2022.04)**
 - **앱 런칭 동아리 CMC Android/iOS 개발자 (2021.02 ~ 2021.09)**
 - **한국대학생IT경영학회 18기 교육기획팀 (2018.03 ~ 2018.12)**
+
+### ✍🏻 Blog
+
+- [MVVM-C + Clean Architecture 리팩토링](https://devyul.tistory.com/199)
+- [프로젝트 개발일지](https://devyul.tistory.com/category/%F0%9F%93%B1%20%20%ED%94%8C%EC%A0%9D%20%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
